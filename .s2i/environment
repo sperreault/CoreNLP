@@ -1,2 +1,4 @@
 ARTIFACT_DIR=target/
 JAVA_MAIN_CLASS=edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+CORENLP_LANG_SRC=http://nlp.stanford.edu/software/stanford-english-corenlp-2018-10-05-models.jar
+CORENLP_LANG_PROPERTIES=StanfordCoreNLP-english.properties
